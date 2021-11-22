@@ -1,0 +1,14 @@
+fac histoire master,38
+prépa AL,13
+ fac histoire licence,13
+fac géo master,9
+ doctorat en géo,5
+fac géo licence,4
+fac autre discipline master,3
+IEP,2
+fac autre discipline licence,2
+ENS,2
+BL,1
+ doctorat en histoire,1
+doctorat autre discipline,0
+ECS,0

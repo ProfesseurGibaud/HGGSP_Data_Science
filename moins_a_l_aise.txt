@@ -1,0 +1,11 @@
+ thème 6 terminale,20
+thème 5 première,15
+thème 4 première,12
+ thème 5 terminale,10
+ thème 1 terminale,9
+ thème 4 terminale,9
+ thème 1 première,6
+ thème 2 terminale,6
+ thème 3 première,4
+ thème 3 terminale,2
+ thème 2 première,2

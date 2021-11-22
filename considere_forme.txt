@@ -1,0 +1,7 @@
+/non pas assez,49
+/ formation initiale/non pas assez,27
+/ formation initiale,12
+/ formation initiale/ formation continue/non pas assez,7
+/ formation continue/non pas assez,1
+/ formation continue,1
+/ formation initiale/ formation continue,0

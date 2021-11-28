@@ -4,8 +4,8 @@
  thème 1 première,10
  thème 2 terminale,10
 thème 4 première,8
+ thème 4 terminale,7
 thème 5 première,7
  thème 5 terminale,7
- thème 4 terminale,7
  thème 1 terminale,6
  thème 6 terminale,3

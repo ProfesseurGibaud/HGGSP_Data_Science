@@ -1,3 +1,0 @@
-en classe de première,40
-en classe de terminale,31
-en classe de première et de terminale,28

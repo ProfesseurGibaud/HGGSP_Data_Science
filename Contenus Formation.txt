@@ -1,7 +1,0 @@
-Non et je ne souhaite pas demander de formation,37
-Non et je souhaite demander une formation,26
-Autre,8
-Oui, avant que je l’enseigne et je n'ai pas demandé cette formation,7
-Oui, après avoir commencé à l'enseigner et j’ai demandé cette formation,6
-Oui, avant que je l’enseigne et j’ai demandé cette formation,6
-Oui, après avoir commencé à l'enseigner et je n'ai pas demandé cette formation,5

@@ -8,7 +8,7 @@ import requests
 
 import pandas as pd
 from pre_training import *
-
+import numpy as np
 
 df = pd.read_csv("data_questionnaires.csv",sep = ";")
 df = df.drop(columns = ["ID de la réponse","Date de soumission","Dernière page", "Langue de départ","Tête de série", "Date de lancement", "Date de la dernière action"])
@@ -38,12 +38,23 @@ def adresse_to_coordonnees(string):
     return boolean,longitude,latitude
 
 def make_coord(df):
-    colonne = df[df.columns[22]]
-    for lycee in colonne:
+    colonne_lycee = df[df.columns[22]]
+    liste_longitude = []
+    liste_latitude = []
+    liste_index = []
+    for index,lycee in enumerate(colonne_lycee):
         try:
             boolean,longitude,latitude = adresse_to_coordonnees(lycee)
             if boolean:
                 print(longitude,latitude)
+                liste_index.append(index)
+                liste_longitude.append(longitude)
+                liste_latitude.append(latitude)
+            else:
+                print("à chercher")
         except:
             print("non renseigné")
+    return liste_index,liste_latitude,liste_longitude
+            
+
 
